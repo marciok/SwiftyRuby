@@ -1,0 +1,6 @@
+Packages
+.build
+hello.xcodeproj
+
+*.class
+hello_world/hello_world
