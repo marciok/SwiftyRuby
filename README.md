@@ -1,4 +1,4 @@
-# SwiftyRuby 💎🐦
+# ![alt text](http://i.imgur.com/c3D74Iw.png) SwiftyRuby
 
 A proof of concept, on how to call **Ruby** from **Swift**, using [CRuby](https://github.com/marciok/CRuby) package. 
 
